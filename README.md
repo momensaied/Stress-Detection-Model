@@ -48,7 +48,6 @@ The model showed promising performance in detecting stress based on EDA features
 - `stress_detection.ipynb`: Main notebook with final code
 - `stress_detection.py`: Python script version (optional)
 - `Stress Detection.pptx`: Project presentation slides
-- `requirements.txt`: List of required Python libraries (optional)
 - `README.md`: This file
 
 ---
